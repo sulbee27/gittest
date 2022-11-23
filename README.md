@@ -1,2 +1,2 @@
-# gittest
+# gitest
 git test
